@@ -9,6 +9,7 @@ void Password()
 {
 	setlocale(0, "ru");
 	system("cls");
+    printf("Task 1\n");
 
     char password[100];
     int i = 0, n = 0;//i - индексы, n - количество знаков пароля
